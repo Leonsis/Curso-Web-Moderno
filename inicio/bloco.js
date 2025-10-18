@@ -19,3 +19,7 @@
         console.log("Passo 6"); // Sentença 6
     }
 }
+
+/* Como o código de um sistema é organizado?
+   * Por meio de pastas, que dentro delas vai ter os arquivos com as extensões específicas do projeto.
+   * E dentro dos arquivos vai ter sentenças e blocos de código. */
