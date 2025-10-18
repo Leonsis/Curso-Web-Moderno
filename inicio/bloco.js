@@ -6,7 +6,7 @@
 
 {
     /* Exemplo de um bloco.
-     * Tambem é possivel criar um bloco de código dentro de outro bloco.*/
+     * Também é possível criar um bloco de código dentro de outro bloco.*/
     console.log("Passo 1"); // Sentença 1
     console.log("Passo 2"); // Sentença 2
     console.log("Passo 3"); // Sentença 3

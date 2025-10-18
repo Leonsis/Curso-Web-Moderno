@@ -1,9 +1,9 @@
-/*O comentariao serve para explicar o codigo, documentar ou desativar partes do codigo.
+/*O comentário serve para explicar o código, documentar ou desativar partes do código.
  * Ele é ignorado pelo interpretador.*/
 
 // O console.log() imprime mensagens no console.
 console.log();
-console.log("testet"); // Mais um exemplo de console.log().
+console.log("teste"); // Mais um exemplo de console.log().
 // console.log(12345);
 
 // Com o // podemos fazer comentários de uma única linha.
