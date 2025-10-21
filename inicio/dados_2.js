@@ -2,7 +2,7 @@
  * usamos a palavra-chave "var", "let" ou "const", 
  * seguida do nome da variável e, opcionalmente, um valor inicial atribuído a ela. 
  */
-let nome = "Caneta";
+let nome = "Caneta"; //string (texto) -> sequencia de simbolos
 let categoria = "Papelaria";
 let preco = 19.90;
 let desconto = 0.4;
